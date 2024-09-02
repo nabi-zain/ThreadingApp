@@ -1,0 +1,14 @@
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\bin\Debug\netcoreapp3.1\ThreadingApp.exe
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\bin\Debug\netcoreapp3.1\ThreadingApp.deps.json
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\bin\Debug\netcoreapp3.1\ThreadingApp.runtimeconfig.json
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\bin\Debug\netcoreapp3.1\ThreadingApp.runtimeconfig.dev.json
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\bin\Debug\netcoreapp3.1\ThreadingApp.dll
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\bin\Debug\netcoreapp3.1\ThreadingApp.pdb
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\obj\Debug\netcoreapp3.1\ThreadingApp.csproj.AssemblyReference.cache
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\obj\Debug\netcoreapp3.1\ThreadingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\obj\Debug\netcoreapp3.1\ThreadingApp.AssemblyInfoInputs.cache
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\obj\Debug\netcoreapp3.1\ThreadingApp.AssemblyInfo.cs
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\obj\Debug\netcoreapp3.1\ThreadingApp.csproj.CoreCompileInputs.cache
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\obj\Debug\netcoreapp3.1\ThreadingApp.dll
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\obj\Debug\netcoreapp3.1\ThreadingApp.pdb
+C:\Users\zaino\Desktop\Threads\ThreadingApp\ThreadingApp\obj\Debug\netcoreapp3.1\ThreadingApp.genruntimeconfig.cache
